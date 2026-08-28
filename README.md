@@ -25,6 +25,8 @@ minute or two. Every run after that starts instantly. It opens two
 console windows (backend + frontend) and your browser to
 http://localhost:5173. Close those two windows to stop SEJar.
 
+If you dont have nodeJS please have.
+
 **macOS/Linux:** run `./run.sh` from a terminal in this folder. Same
 first-run behavior; press Ctrl+C in that terminal to stop both servers.
 
